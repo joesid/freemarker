@@ -24,4 +24,8 @@ public class Student {
 
         return Id;
     }
+
+    public void setId(Integer id) {
+        Id = id;
+    }
 }
